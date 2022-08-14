@@ -10,6 +10,6 @@ active on discord at blackswan#0044
 - 🌱 in the midst of learning solidity, as well as functional programming in school. 
 - 👯 looking for possible internship roles as a software engineer/blockchain developer in summer 2023!
 - 💬 ask me about web3 gaming and bicycles :>
-- ⚙️ I use daily: `c`, `python`, `solidity`, `SML`, `JS`
+- ⚙️ I use daily: `c`, `python`, `solidity`, `SML`, `javascript`
 - 📫 other socials:
   **[Twitter](https://twitter.com/blackswan8435), [LinkedIn](https://www.linkedin.com/in/fuhaowei/)**
