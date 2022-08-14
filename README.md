@@ -9,6 +9,6 @@ i'm hao wei! currently a junior @ carnegie mellon, majoring in information syste
 - 👯 looking for possible internship roles as a software engineer/blockchain developer in summer 2023!
 - 💬 ask me about web3 gaming and bicycles :>
 - 📫 how to reach me:
-  **[Twitter](https://twitter.com/blackswan8435), [LinkedIn](https://www.linkedin.com/in/fuhaowei/),  [Discord](blackswan#0044)/**
+  **[Twitter](https://twitter.com/blackswan8435), [LinkedIn](https://www.linkedin.com/in/fuhaowei/),  [Discord]: blackswan#0044 **
 
 ![Top Langs]
