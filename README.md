@@ -3,6 +3,7 @@
 i'm hao wei! currently a junior @ carnegie mellon, majoring in information systems with minors in computer science and human computer interaction.
 
 active on discord at blackswan#0044
+
 ---
 
 - ☺️ i'm currently working on the alchemy 10 week challenge! 
