@@ -8,7 +8,7 @@ active on discord at blackswan#0044
 
 - ☺️ i'm currently working on the alchemy 10 week challenge! 
 - 🌱 in the midst of learning solidity, as well as functional programming in school. 
-- 👯 looking for possible internship roles as a software engineer/blockchain developer in summer 2023!
+- ✨ looking for possible internship roles as a software engineer/blockchain developer in summer 2023!
 - 💬 ask me about web3 gaming and bicycles :>
 - ⚙️ my languages: `c`, `python`, `solidity`, `SML`, `javascript`
 - 📫 other socials:
