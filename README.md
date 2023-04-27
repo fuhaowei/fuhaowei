@@ -14,6 +14,6 @@ working on AWS dev associate certification too.
 - 🧰 my frameworks: `react`, `kubernetes`, `docker`, `node.js`, `flask`, `jenkins`
 - 🛠️ my databases: `MySQL`, `MongoDB`, `Redis`
 - 📘 my certifications: AWS Cloud Certified Practioner
-- 💬 ask me about why i think italian and chinese food share the same soul, bicycles, 
+- 💬 ask me about why i think italian and chinese food share the same soul, bicycles, and soccer :D
 - 📫 other socials:
   **[Twitter](https://twitter.com/blackswan8435), [LinkedIn](https://www.linkedin.com/in/fuhaowei/)**
