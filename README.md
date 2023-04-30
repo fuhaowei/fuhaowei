@@ -4,7 +4,6 @@ i'm hao wei! currently a junior @ carnegie mellon, majoring in information syste
 
 i really like building things and seeing things work.
 
-working on AWS dev associate certification too.
 
 ---
 
