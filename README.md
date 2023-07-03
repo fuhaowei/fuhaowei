@@ -4,7 +4,13 @@ i'm hao wei! currently a senior @ carnegie mellon, majoring in information syste
 
 i really just like building things and seeing things work.
 
-actively recruting for full time roles in 2024!
+actively recruting for full time roles in 2024! 
+
+resume found [here](https://drive.google.com/file/d/1dq1JNUf-U2j6onxjDQlmW08XZ6v5-tHT/view?usp=share_link)
+
+my website found [here](https://fuhaowei.github.io)
+
+
 
 ---
 
@@ -15,4 +21,4 @@ actively recruting for full time roles in 2024!
 - 📘 my certifications: AWS Developer Associate, AWS Cloud Certified Practioner
 - 💬 ask me about why i think italian and chinese food share the same soul, bicycles, and soccer :D
 - 📫 other socials:
-  **[Twitter](https://twitter.com/blackswan8435), [LinkedIn](https://www.linkedin.com/in/fuhaowei/)**
+  **[LinkedIn](https://www.linkedin.com/in/fuhaowei/)**
