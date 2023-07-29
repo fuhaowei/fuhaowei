@@ -6,7 +6,7 @@ i really just like building things and seeing things work.
 
 actively recruting for full time roles in 2024! 
 
-resume found [here](https://drive.google.com/file/d/1cwLpVc9325_Mntxv4ng9AIMePfHBmR9P/view?usp=sharing)
+resume found [here](https://drive.google.com/file/d/1MA4zdFHC2UT0AXEiuCBTty71doW1M-db/view?usp=sharing)
 
 my website found [here](https://fuhaowei.github.io)
 
